@@ -1,6 +1,6 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-I am SamTheFam, a frontend software engineer from the United Kingdom.
+<p align="center">I am SamTheFam, a frontend software engineer from the United Kingdom.</p>
 
 <p align="center">
   <a href="https://github.com/SamTheFam?tab=followers">
@@ -30,13 +30,13 @@ I am SamTheFam, a frontend software engineer from the United Kingdom.
 
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F6%2F64%2FExpressjs.png&f=1&nofb=1" /> [ExpressJS](http://expressjs.com/)
 
-<img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fmysql-5-logo-png-transparent.png&f=1&nofb=1" /> [mySQL](https://www.mysql.com/)
+<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" /> [PostgreSQL](https://www.postgresql.org/)
 
 ## What am I working on?
-I am currently working on a social media platform for developers on behalf of my Development Studio [Owl's Toolbox](https://owlstoolbox.net/), for client side will be using [ReactJS](https://reactjs.org/) and for the server side we will be using [Django](https://www.djangoproject.com/) + [Django REST Framework](https://www.django-rest-framework.org/). To follow our progress please join [our Discord](https://discord.gg/dxEQ7bs/)!
+I am currently working on a long term project with a couple friends, I'd prefer not to reveal it as it is a growing business idea that we wish to keep private.
 
 ## What are you learning?
-At the moment, nothing big. Just some React tests, and maybe some C++ in future!
+I have spent my free time learning C++. I am learning at a slow pace, and am still a beginner.
 
 ## How to reach me?
-SamTheFam#6946 on [our Discord server](https://discord.gg/dxEQ7bs/).
+conaticus#2653
