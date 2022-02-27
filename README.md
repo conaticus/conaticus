@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/github/followers/conaticus?style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="https://youtube.com/SamTheFam?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC2SeAv69LxOFnRIgoDur1mw?style=for-the-badge" />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCRLHJ-7b4pjDpBBHAUXEvjQ?style=for-the-badge" />
   </a>
 </p>
 
