@@ -31,4 +31,4 @@
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" /> Linux
 
 ## How to reach me?
-Discord: conaticus#2653
+Business Enquiries: enquiry.conaticus@gmail.com
