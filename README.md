@@ -1,4 +1,10 @@
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="intro-dark.gif">
+        <source media="(prefers-color-scheme: light)" srcset="intro-light.gif">
+        <img width="30%" src="intro-light.gif" alt="intro image" />
+    </picture>
+</p>
 
 <p align="center">I'm conaticus, a programmer, content creator.</p>
 
