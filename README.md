@@ -28,6 +28,10 @@
 <img src="https://img.shields.io/github/stars/conaticus/FileExplorer" />
 <a href="https://www.youtube.com/watch?v=Z60f2g-COJY"><img width="500" src="https://github.com/conaticus/FileExplorer/raw/main/screenshots/search.jpg" /></a>
 
+## [Package Manager](https://github.com/conaticus/click) 
+<img src="https://img.shields.io/github/stars/conaticus/click" />
+<a href="https://www.youtube.com/watch?v=uKP990_pjJo"><img width="500" src="https://github.com/conaticus/click/blob/dev/screenshots/benchmark.png" /></a>
+
 ## [Spaced Repetition](https://github.com/conaticus/spaced-repetition) 
 <img src="https://img.shields.io/github/stars/conaticus/spaced-repetition" />
 <a href="https://www.youtube.com/watch?v=LF-wWYBqaMU"><img width="500" src="https://github.com/conaticus/spaced-repetition/raw/master/screenshots/ssone.png?raw=true" /></a>
