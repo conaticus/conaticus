@@ -14,7 +14,7 @@
 ## Skills
 <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/1200px-Rustacean-orig-noshadow.svg.png" /> Rust
 
-<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" /> C
+<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" /> C# 
 
 <img width="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4c%2FTypescript_logo_2020.svg%2F512px-Typescript_logo_2020.svg.png&f=1&nofb=1" /> TypeScript 
 
@@ -23,6 +23,10 @@
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /> NodeJS
 
 # My Projects
+
+## [Boolean Bot - Contributions Welcome](https://github.com/conaticusgrp/boolean) 
+<img src="https://img.shields.io/github/stars/conaticusgrp/boolean" />
+<a href="https://www.youtube.com/watch?v=xq2jR3_msmk"><img width="500" src="https://cdn.discordapp.com/attachments/967362644543680566/1237345572340371456/Screenshot_2024-05-07_110905.png?ex=663b4f5d&is=6639fddd&hm=631e4e5864eb12cb2bd9725bb61e8eeef58d6c7e66abff3941792a367533dbec&" /></a>
 
 ## [File Explorer](https://github.com/conaticus/FileExplorer)
 <img src="https://img.shields.io/github/stars/conaticus/FileExplorer" />
@@ -39,10 +43,6 @@
 ## [Spaced Repetition](https://github.com/conaticus/spaced-repetition) 
 <img src="https://img.shields.io/github/stars/conaticus/spaced-repetition" />
 <a href="https://www.youtube.com/watch?v=LF-wWYBqaMU"><img width="500" src="https://github.com/conaticus/spaced-repetition/raw/master/screenshots/ssone.png?raw=true" /></a>
-
-## [Boolean](https://github.com/conaticusgrp/boolean) 
-<img src="https://img.shields.io/github/stars/conaticusgrp/boolean" />
-<a href="https://www.youtube.com/watch?v=xq2jR3_msmk"><img width="500" src="https://cdn.discordapp.com/attachments/982164182101291048/1150148023532396595/image.png" /></a>
 
 ## [Habit Tracker](https://github.com/conaticus/habit-tracker) 
 <img src="https://img.shields.io/github/stars/conaticus/habit-tracker" />
